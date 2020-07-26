@@ -1,0 +1,29 @@
+{
+  "name": "openbanking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Time17/openbanking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Time17/openbanking/issues"
+  },
+  "homepage": "https://github.com/Time17/openbanking#readme",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "uuid": "^8.2.0"
+  }
+}
