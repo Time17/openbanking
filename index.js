@@ -189,4 +189,4 @@ server.del('/consentiment/:id', (req, res) => {
  );  
 })
 
-server.listen(3000, () => console.log(`Listening OpenBanking Tecban Hackathon! ...`))
+server.listen(process.env.PORT, () => console.log(`Listening OpenBanking Tecban Hackathon! ...`))
